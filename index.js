@@ -2,6 +2,7 @@
 
 var path = require('path');
 var defaultsDeep = require('lodash.defaultsdeep');
+var imagemin = require('gulp-imagemin');
 
 module.exports = function (gulp, gulpConfig) {
 
