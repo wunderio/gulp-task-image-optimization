@@ -1,6 +1,6 @@
 {
   "name": "gulp-task-image-optimization",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A gulp task to minify images.",
   "main": "index.js",
   "repository": {
