@@ -11,7 +11,7 @@ module.exports = function (gulp, gulpConfig) {
   // Merge default config with gulp config.
   var defaultConfig = {
     imageOptimization: {
-      src: path.join('images_originals', '*'),
+      src: path.join('images_originals', '**', '*'),
       dest: 'images'
     }
   };
